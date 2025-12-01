@@ -9,4 +9,8 @@ Code based on Examples and Exercises in the book "Introduction to computation in
 <figcaption>Comparison between  numerical and Analytical launch angles v max Ranges  - projectile_range_program_2_3</figcaption><br>
 <img width="480" height="360" alt="Comparison between  numerical and Analytical launch angles v max Ranges  - projectile_range_program_2_3" src="https://github.com/user-attachments/assets/c64d15ba-3476-4848-83e4-c6e37f71913d" /><br>
 
+<figcaption>Prime numbers distribution</figcaption>figcaption><br>
+<img width="640" height="480" alt="Prime numbers distribution  - primes_program_2_4" src="https://github.com/user-attachments/assets/2c1bf8f9-6438-4486-8cf8-6c5f03436303" /><br>
+
+
 
