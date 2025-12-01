@@ -1,3 +1,7 @@
+##### CODE BY MUGAMBI NDWIGA, mugambindwiga@gmail.com, +254714103665
+
+
+
 #%% Import modules
 import math
 import numpy as np

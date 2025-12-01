@@ -1,3 +1,7 @@
+##### CODE BY MUGAMBI NDWIGA, mugambindwiga@gmail.com, +254714103665
+
+
+
 """2.1. A generalized absolute value function. We implemented a basic version of f (x) = |x|
 in Sect.2.6 that acts on a scalar number x. Extend the function so that it can also operate
 on a list of numbers as input and return a list of absolute values as output. Print the

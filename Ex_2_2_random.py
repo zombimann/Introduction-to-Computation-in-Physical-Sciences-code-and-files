@@ -1,3 +1,7 @@
+##### CODE BY MUGAMBI NDWIGA, mugambindwiga@gmail.com, +254714103665
+
+
+
 """(a) Generate a list of 100 random integers between 1 and 100. Calculate the mean,
 median, and mode of that list.
 (b) Store the number of times each integer appears in a dictionary.
