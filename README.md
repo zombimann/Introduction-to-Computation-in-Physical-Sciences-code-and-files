@@ -9,13 +9,13 @@ Code based on Examples and Exercises in the book "Introduction to computation in
 <figcaption>Comparison between  numerical and Analytical launch angles v max Ranges  - projectile_range_program_2_3</figcaption><br>
 <img width="480" height="360" alt="Comparison between  numerical and Analytical launch angles v max Ranges  - projectile_range_program_2_3" src="https://github.com/user-attachments/assets/c64d15ba-3476-4848-83e4-c6e37f71913d" /><br>
 
-<figcaption>Prime numbers distribution</figcaption>figcaption><br>
+<figcaption>Prime numbers distribution</figcaption><br>
 <img width="480" height="360" alt="Prime numbers distribution  - primes_program_2_4" src="https://github.com/user-attachments/assets/2c1bf8f9-6438-4486-8cf8-6c5f03436303" /><br>
 
 <figcaption>Collatz Sequence Length Distribution</figcaption>figcaption><br>
 <img width="480" height="360" alt="Collatz Sequence Length Distribution program 2_5" src="https://github.com/user-attachments/assets/0065500f-2c10-474b-8659-0376d6f27022" /><br>
 
-<figcaption>Collatz Ratio Distribution program</figcaption>figcaption><br>
+<figcaption>Collatz Ratio Distribution program</figcaption><br>
 <img width="480" height="360" alt="Collatz Ratio Distribution program 2_5" src="https://github.com/user-attachments/assets/8a7b73f5-0f2e-47ca-9839-a5bd0bb7d624" /><br>
 
 
