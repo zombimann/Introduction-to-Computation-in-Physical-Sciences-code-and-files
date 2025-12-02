@@ -1,6 +1,33 @@
 ##### CODE BY MUGAMBI NDWIGA, mugambindwiga@gmail.com, +254714103665
 
+"""
+PROBLEM STATEMENT:
 
+Collatz Sequences
+
+Define the sequence from a positive integer a0 by:
+a_{i+1} = a_i/2      if a_i is even
+a_{i+1} = 3*a_i + 1  if a_i is odd
+
+All sequences are conjectured to reach 1.
+Sequence length L = number of terms until 1 appears.
+Example: a0 = 10 → [10, 5, 16, 8, 4, 2, 1], L = 7.
+
+Consider a0 = 2, 3, ..., 10^6.
+
+(a) Identify the a0 producing the longest sequence and its length L.
+
+(b) Plot L vs a0 for a0 < 10^4.
+    Plot the distribution of L for 2 ≤ a0 ≤ 10^6.
+
+(c) Let n_odd = count of odd terms (excluding 1).
+    Let n_even = count of even terms.
+    Compute r = n_odd / n_even.
+    Plot r vs a0 for 2 < a0 < 10^4.
+    Plot the distribution of r for 2 < a0 ≤ 10^6.
+    Show that r is bounded above by log(2) / log(3) for a0 > 2.
+
+"""
 
 
 import math
@@ -8,6 +35,9 @@ import matplotlib.pyplot as plt
 
 
 def collatz(a):
+    """
+    This finds the collatz length of a value
+    """
     length = 1
     nodd = 0
     neven = 0
