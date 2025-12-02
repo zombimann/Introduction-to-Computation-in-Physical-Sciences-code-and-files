@@ -15,8 +15,12 @@ Code based on Examples and Exercises in the book "Introduction to computation in
 <figcaption>Collatz Sequence Length Distribution</figcaption><br>
 <img width="480" height="360" alt="Collatz Sequence Length Distribution program 2_5" src="https://github.com/user-attachments/assets/0065500f-2c10-474b-8659-0376d6f27022" /><br>
 
-<figcaption>Collatz Ratio Distribution program</figcaption><br>
+<figcaption>Collatz Ratio Distribution</figcaption><br>
 <img width="480" height="360" alt="Collatz Ratio Distribution program 2_5" src="https://github.com/user-attachments/assets/8a7b73f5-0f2e-47ca-9839-a5bd0bb7d624" /><br>
+
+<figcaption>Numerical Cycle Length Distribution</figcaption><br>
+<img width="640" height="480" alt="Numerical Cycle Length Distribution - program 2_6" src="https://github.com/user-attachments/assets/1d3b5c7d-9698-4771-ba0a-f5dbf71610ae" /><br>
+
 
 
 
