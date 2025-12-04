@@ -21,6 +21,8 @@ Code based on Examples and Exercises in the book "Introduction to computation in
 <figcaption>Numerical Cycle Length Distribution</figcaption><br>
 <img width="640" height="480" alt="Numerical Cycle Length Distribution - program 2_6" src="https://github.com/user-attachments/assets/1d3b5c7d-9698-4771-ba0a-f5dbf71610ae" /><br>
 
+<figcaption>VPython_3D_Visualization</figcaption><br>
+![VPython_3D_Visualization](https://github.com/user-attachments/assets/7db07880-9774-41c8-b266-33544d8d307a)<br>
 
 
 
