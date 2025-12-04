@@ -22,7 +22,8 @@ Code based on Examples and Exercises in the book "Introduction to computation in
 <img width="640" height="480" alt="Numerical Cycle Length Distribution - program 2_6" src="https://github.com/user-attachments/assets/1d3b5c7d-9698-4771-ba0a-f5dbf71610ae" /><br>
 
 <figcaption>VPython_3D_Visualization</figcaption><br>
-(![VPython 3D Visualization](https://raw.githubusercontent.com/zombimann/Introduction-to-Computation-in-Physical-Sciences-code-and-files/main/static-assets/VPython_3D_Visualization.gif))
+![VPython 3D Visualization](https://raw.githubusercontent.com/zombimann/Introduction-to-Computation-in-Physical-Sciences-code-and-files/main/static-assets/VPython_3D_Visualization.gif)
+
 
 
 
