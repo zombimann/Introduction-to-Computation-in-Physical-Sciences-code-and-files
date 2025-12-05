@@ -30,6 +30,11 @@ Code based on Examples and Exercises in the book "Introduction to computation in
 <figcaption>Interactive Freefall ipWidgets</figcaption><br>
 <img src="https://github.com/user-attachments/assets/3d3d7f08-40ef-4ffa-a070-e4ee508df8dd" alt="Interactive Freefall Matplotlib Widgets" width="600"/><br>
 
+<figcaption>VPython animation </figcaption><br>
+<img src="https://github.com/user-attachments/assets/67cad8bd-7822-432e-ae16-16bc5e140544" alt="Interactive Freefall Matplotlib Widgets" width="600"/><br>
+
+
+
 
 
 
