@@ -32,7 +32,6 @@ Code based on Examples and Exercises in the book "Introduction to computation in
 
 
 
-![interactive freefall ipywidgets program 3_1a](https://github.com/user-attachments/assets/3d3d7f08-40ef-4ffa-a070-e4ee508df8dd)
 
 
 
