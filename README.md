@@ -24,7 +24,10 @@ Code based on Examples and Exercises in the book "Introduction to computation in
 <figcaption>VPython_3D_Visualization</figcaption><br>
 <img src="https://raw.githubusercontent.com/zombimann/Introduction-to-Computation-in-Physical-Sciences-code-and-files/main/static-assets/VPython_3D_Visualization.gif" alt="VPython 3D Visualization" width="600"/>
 
-![interactive freefall matplotlib widgets program 3_1b](https://github.com/user-attachments/assets/88e0ed27-dd32-4520-ba44-357c6cb98041)
+<figcaption>Interactive Freefall Matplotlib Widgets</figcaption><br>
+<img src="https://github.com/user-attachments/assets/88e0ed27-dd32-4520-ba44-357c6cb98041" alt="Interactive Freefall Matplotlib Widgets" width="600"/>br
+
+
 
 ![interactive freefall ipywidgets program 3_1a](https://github.com/user-attachments/assets/3d3d7f08-40ef-4ffa-a070-e4ee508df8dd)
 
